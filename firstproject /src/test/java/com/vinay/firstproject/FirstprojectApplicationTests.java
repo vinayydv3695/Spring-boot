@@ -1,10 +1,10 @@
-package com.firstproject.quickstart;
+package com.vinay.firstproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuickstartApplicationTests {
+class FirstprojectApplicationTests {
 
 	@Test
 	void contextLoads() {
