@@ -1,13 +1,11 @@
-package com.printer.Colors;
+package com.deviro.maven;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ColorsApplicationTests {
+class ColoursApplicationIT {
 
-	@Test
-	void contextLoads() {
-	}
-
+  @Test
+  void contextLoads() {}
 }
